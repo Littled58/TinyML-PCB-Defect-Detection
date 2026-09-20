@@ -83,24 +83,24 @@ The ESP32-S3 is used as the embedded platform for the project. A camera is used 
 The health monitoring system combines these parameters with the defect detection output to generate a health score between 0 and 100.
 
 ### Technologies Used
-Python
-YOLO
-Machine Learning
-Computer Vision
-TinyML
-ESP32-S3
-ESP32 Camera
-TensorFlow Lite Micro
-Arduino IDE
-Kaggle
+-Python
+-YOLO
+-Machine Learning
+-Computer Vision
+-TinyML
+-ESP32-S3
+-ESP32 Camera
+-TensorFlow Lite Micro
+-Arduino IDE
+-Kaggle
 
 ### Future Work
-Optimize the trained model for efficient ESP32-S3 deployment
-Increase the PCB dataset and add more defect classes
-Improve model accuracy and inference speed
-Apply model quantization for TinyML deployment
-Integrate IoT-based remote monitoring and alerts
-Improve microcontroller health monitoring using additional parameters
+-Optimize the trained model for efficient ESP32-S3 deployment
+-Increase the PCB dataset and add more defect classes
+-Improve model accuracy and inference speed
+-Apply model quantization for TinyML deployment
+-Integrate IoT-based remote monitoring and alerts
+-Improve microcontroller health monitoring using additional parameters
 
 ## System Workflow
 
